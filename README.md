@@ -1,6 +1,5 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 12.11.25
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -31,8 +30,6 @@
 ### 4.	When the first part is selected then it will open in the blank space in the left side of the screen.
 ### 5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
-## OUTPUT :
-
 ## Support Removal Process
 ![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
 ![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
@@ -46,15 +43,16 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
-<img width="1564" height="901" alt="Screenshot (220)" src="https://github.com/user-attachments/assets/7b995a69-99e1-4699-8009-795c14c447a4" />
 
-<img width="1552" height="910" alt="Screenshot (221)" src="https://github.com/user-attachments/assets/67c4b879-9127-4036-a42b-3943c7cbece3" />
-
-<img width="1571" height="908" alt="Screenshot (222)" src="https://github.com/user-attachments/assets/c4f5ccad-40b4-4fe0-9bba-08d89ff14d1e" />
+![Screenshot 2025-05-02 111126](https://github.com/user-attachments/assets/20c38643-57c7-45b7-891a-8c66530a55a6)
 
 
+![Screenshot 2025-05-02 111356](https://github.com/user-attachments/assets/1997f802-58d3-4f46-b618-86547f20beb8)
 
-### Name:VAISHALI BALAMURUGAN
-### Register Number:212222230164
+
+
+![Screenshot 2025-05-02 111454](https://github.com/user-attachments/assets/7dc6f33f-f443-4431-bf77-efaa5dbeffea)
+
+
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
